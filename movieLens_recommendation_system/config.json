@@ -1,0 +1,7 @@
+{
+    "STEPS" : 1000,
+    "EPOCHS" : 500,
+    "EARLY_STOP":3000,
+    "log" : 50,
+    "hidden_dims" : [256,128,64,128,256]
+}
